@@ -1,0 +1,48 @@
+[
+  {
+    "roll_no": 1,
+    "name": "David Doe",
+    "admission_number": "A123",
+    "date_of_birth": "1990-05-15",
+    "gender": "Male",
+    "father_name": "Michael Doe",
+    "mother_name": "Jennifer Doe",
+    "nationality": "American",
+    "address": "123, Main Street, City, State, Zip",
+    "contact": {
+      "phone": "123-456-7890",
+      "email": "david.doe@example.com"
+    }
+  },
+  {
+    "roll_no": 2,
+    "name": "Jane Smith",
+    "admission_number": "A456",
+    "date_of_birth": "1992-10-20",
+    "gender": "Female",
+    "father_name": "David Smith",
+    "mother_name": "Emily Smith",
+    "nationality": "British",
+    "address": "789, Park Avenue, City, State, Zip",
+    "contact": {
+      "phone": "987-654-3210",
+      "email": "jane.smith@example.com"
+    }
+  },
+  
+  {
+    "roll_no": 3,
+    "name": "John Watson",
+    "admission_number": "A789",
+    "date_of_birth": "1995-03-12",
+    "gender": "Male",
+    "father_name": "James Watson",
+    "mother_name": "Linda Watson",
+    "nationality": "Canadian",
+    "address": "456, Maple Street, City, State, Zip",
+    "contact": {
+      "phone": "456-789-1234",
+      "email": "john.watson@example.com"
+    }
+  }
+]

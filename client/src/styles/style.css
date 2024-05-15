@@ -1,0 +1,90 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  font-family: sans-serif;
+}
+
+.fetch-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.fetch-wrapper .fetch-container {
+  box-shadow: 0px 0px 3px 2px rgb(187, 186, 186);
+  border-radius: 15px;
+  padding: 1.2rem 2rem;
+  margin: 1rem 0rem;
+}
+.fetch-wrapper .fetch-container form {
+  margin: 1.2rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.fetch-wrapper .fetch-container form input {
+  padding: 8px 12px;
+  font-size: 1rem;
+  margin-right: 1rem;
+  border-radius: 5px;
+  outline: none;
+}
+.fetch-wrapper .fetch-container form button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+.fetch-wrapper .fetch-container form button:hover {
+  background-color: #0056b3;
+}
+
+.certificate-wrapper .certificate-container {
+  border: 2px solid black;
+  padding: 0rem 0.8rem;
+}
+.certificate-wrapper .certificate-container h2 {
+  text-align: center;
+  padding: 0.8rem 0rem;
+}
+.certificate-wrapper .certificate-container .field {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  margin-bottom: 10px;
+  border: 2px solid black;
+}
+.certificate-wrapper .certificate-container .field .field-name {
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  width: 50%;
+  border-right: 2px solid black;
+  padding-left: 0.8rem;
+}
+.certificate-wrapper .certificate-container .field .field-value {
+  width: 50%;
+  padding: 0.8rem;
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+.button-container button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+.button-container button:hover {
+  background-color: #0056b3;
+}/*# sourceMappingURL=style.css.map */
